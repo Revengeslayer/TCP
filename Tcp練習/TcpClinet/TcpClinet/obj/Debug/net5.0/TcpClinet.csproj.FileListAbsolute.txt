@@ -1,0 +1,15 @@
+F:\Users\user\Desktop\資策會\練習\TCP\Tcp練習\TcpClinet\TcpClinet\bin\Debug\net5.0\TcpClinet.exe
+F:\Users\user\Desktop\資策會\練習\TCP\Tcp練習\TcpClinet\TcpClinet\bin\Debug\net5.0\TcpClinet.deps.json
+F:\Users\user\Desktop\資策會\練習\TCP\Tcp練習\TcpClinet\TcpClinet\bin\Debug\net5.0\TcpClinet.runtimeconfig.json
+F:\Users\user\Desktop\資策會\練習\TCP\Tcp練習\TcpClinet\TcpClinet\bin\Debug\net5.0\TcpClinet.runtimeconfig.dev.json
+F:\Users\user\Desktop\資策會\練習\TCP\Tcp練習\TcpClinet\TcpClinet\bin\Debug\net5.0\TcpClinet.dll
+F:\Users\user\Desktop\資策會\練習\TCP\Tcp練習\TcpClinet\TcpClinet\bin\Debug\net5.0\ref\TcpClinet.dll
+F:\Users\user\Desktop\資策會\練習\TCP\Tcp練習\TcpClinet\TcpClinet\bin\Debug\net5.0\TcpClinet.pdb
+F:\Users\user\Desktop\資策會\練習\TCP\Tcp練習\TcpClinet\TcpClinet\obj\Debug\net5.0\TcpClinet.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\user\Desktop\資策會\練習\TCP\Tcp練習\TcpClinet\TcpClinet\obj\Debug\net5.0\TcpClinet.AssemblyInfoInputs.cache
+F:\Users\user\Desktop\資策會\練習\TCP\Tcp練習\TcpClinet\TcpClinet\obj\Debug\net5.0\TcpClinet.AssemblyInfo.cs
+F:\Users\user\Desktop\資策會\練習\TCP\Tcp練習\TcpClinet\TcpClinet\obj\Debug\net5.0\TcpClinet.csproj.CoreCompileInputs.cache
+F:\Users\user\Desktop\資策會\練習\TCP\Tcp練習\TcpClinet\TcpClinet\obj\Debug\net5.0\TcpClinet.dll
+F:\Users\user\Desktop\資策會\練習\TCP\Tcp練習\TcpClinet\TcpClinet\obj\Debug\net5.0\ref\TcpClinet.dll
+F:\Users\user\Desktop\資策會\練習\TCP\Tcp練習\TcpClinet\TcpClinet\obj\Debug\net5.0\TcpClinet.pdb
+F:\Users\user\Desktop\資策會\練習\TCP\Tcp練習\TcpClinet\TcpClinet\obj\Debug\net5.0\TcpClinet.genruntimeconfig.cache

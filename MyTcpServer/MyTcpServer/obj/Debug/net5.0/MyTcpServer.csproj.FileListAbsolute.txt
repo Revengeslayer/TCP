@@ -1,0 +1,16 @@
+F:\Users\user\Desktop\資策會\練習\TCP\MyTcpServer\MyTcpServer\bin\Debug\net5.0\MyTcpServer.exe
+F:\Users\user\Desktop\資策會\練習\TCP\MyTcpServer\MyTcpServer\bin\Debug\net5.0\MyTcpServer.deps.json
+F:\Users\user\Desktop\資策會\練習\TCP\MyTcpServer\MyTcpServer\bin\Debug\net5.0\MyTcpServer.runtimeconfig.json
+F:\Users\user\Desktop\資策會\練習\TCP\MyTcpServer\MyTcpServer\bin\Debug\net5.0\MyTcpServer.runtimeconfig.dev.json
+F:\Users\user\Desktop\資策會\練習\TCP\MyTcpServer\MyTcpServer\bin\Debug\net5.0\MyTcpServer.dll
+F:\Users\user\Desktop\資策會\練習\TCP\MyTcpServer\MyTcpServer\bin\Debug\net5.0\ref\MyTcpServer.dll
+F:\Users\user\Desktop\資策會\練習\TCP\MyTcpServer\MyTcpServer\bin\Debug\net5.0\MyTcpServer.pdb
+F:\Users\user\Desktop\資策會\練習\TCP\MyTcpServer\MyTcpServer\obj\Debug\net5.0\MyTcpServer.csproj.AssemblyReference.cache
+F:\Users\user\Desktop\資策會\練習\TCP\MyTcpServer\MyTcpServer\obj\Debug\net5.0\MyTcpServer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\user\Desktop\資策會\練習\TCP\MyTcpServer\MyTcpServer\obj\Debug\net5.0\MyTcpServer.AssemblyInfoInputs.cache
+F:\Users\user\Desktop\資策會\練習\TCP\MyTcpServer\MyTcpServer\obj\Debug\net5.0\MyTcpServer.AssemblyInfo.cs
+F:\Users\user\Desktop\資策會\練習\TCP\MyTcpServer\MyTcpServer\obj\Debug\net5.0\MyTcpServer.csproj.CoreCompileInputs.cache
+F:\Users\user\Desktop\資策會\練習\TCP\MyTcpServer\MyTcpServer\obj\Debug\net5.0\MyTcpServer.dll
+F:\Users\user\Desktop\資策會\練習\TCP\MyTcpServer\MyTcpServer\obj\Debug\net5.0\ref\MyTcpServer.dll
+F:\Users\user\Desktop\資策會\練習\TCP\MyTcpServer\MyTcpServer\obj\Debug\net5.0\MyTcpServer.pdb
+F:\Users\user\Desktop\資策會\練習\TCP\MyTcpServer\MyTcpServer\obj\Debug\net5.0\MyTcpServer.genruntimeconfig.cache
